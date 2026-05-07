@@ -1,0 +1,21 @@
+{
+  "date": "2026-05-04",
+  "recipes": [
+    {
+      "name": "Mapo Tofu",
+      "result": "Great — doubled the Sichuan peppercorn, much better kick.",
+      "rating": 5
+    },
+    {
+      "name": "Korean Seasoned Spinach Salad",
+      "result": "Good side dish, added extra sesame oil.",
+      "rating": 4
+    },
+    {
+      "name": "Hot and Sour Soup",
+      "result": "Slightly too thick, reduce cornstarch next time.",
+      "rating": 3
+    }
+  ],
+  "notes": "Full dinner for 4. Everything came out well. Prep took about 1.5 hours."
+}
